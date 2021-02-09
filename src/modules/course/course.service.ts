@@ -5,7 +5,6 @@ import {
   HttpStatus,
   Injectable,
 } from '@nestjs/common';
-// import { CourseDTO } from './dto/CourseDTO';
 import { COURSE } from 'src/config/routes';
 import { CourseDTO } from './dto/CourseDTO';
 
